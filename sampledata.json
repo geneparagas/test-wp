@@ -1,5 +1,4 @@
-{
-	"json": [
+[
 		{ "value": "property 1", "label": "property 1" },
   { "value": "property 2", "label": "property 2" },
 		{
@@ -8003,4 +8002,3 @@
 			"Name": "北京工业大学中蓝公寓"
 		}
 	]
-}
