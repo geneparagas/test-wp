@@ -45,8 +45,6 @@ http://localhost:3000/
 
  🙌 This website contains array of data of restaurants and also user collections, you can easily filter both restaurants name and time,
 
-Explain how to run the automated tests for this system
-
 ### Functions
 
 :ballot_box_with_check: List of restaurants that can easily search both name and time.
